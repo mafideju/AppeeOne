@@ -1,0 +1,13 @@
+.input__mid {
+  width: 75%;
+}
+
+.input__large {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.ui.label {
+  background-color: rgba(209, 0, 0, 0.61);
+  color: white;
+}
